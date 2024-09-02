@@ -46,8 +46,8 @@ phi.m = 0.01 #weight of mosquitoes on control participation
 phi.d = 0.01 #weight of disease on control participation
 phi.s = 0.01 #weight of social influence on control participation
 
-alpha.b = 0.569 #1-0.431 #personal protection, ref=pnas paper
-alpha.m = .53 #green way papegamma, 0.53 = remaining habitat
+alpha.b = 0.569 #1-0.431 #personal protection
+alpha.m = .53 # remaining habitat
 omega = 1/15 #duration of behavior
 gamma = 1/7 #duration of dengue infection
 xi = 1/180 #duration of dengue immunity
